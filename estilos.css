@@ -1,1 +1,18 @@
+body {
+  background-color: #486067;
+}
 
+h1 {
+  color: black;
+  text-align: center;
+  background-color: #14BDEB;
+}
+
+p {
+  font-family: arial;
+  font-size;
+}
+footer{
+  text-align: center;
+   background-color: #14BDEB;
+}
