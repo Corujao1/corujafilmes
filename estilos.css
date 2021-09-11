@@ -11,6 +11,10 @@ p {
   font-family: arial;
   font-size;
 }
+divisao{
+  background-color: lightblue;    
+  text-align: center;
+}
 footer{
   text-align: center;
    background-color: #486067;
