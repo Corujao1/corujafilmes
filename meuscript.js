@@ -1,3 +1,3 @@
-function descobra1() {
-  document.getElementById("descobrir").innerHTML = "Nota da ...";
+function descubra1() {
+  document.getElementById("descobrir1").innerHTML = "Nota da ...";
 }
